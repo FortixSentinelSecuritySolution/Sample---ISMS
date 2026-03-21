@@ -1,4 +1,5 @@
 Name is Kheysh 
+
 This repository is part of my personal journey toward building a complete, practical, and technically sound Information Security Management System (ISMS) framework. My goal is to create a structured reference model that demonstrates how security governance, risk management, and compliance processes can be implemented in a real‑world environment.
 
 I’m using this project to document my methodology, refine my security architecture approach, and strengthen my understanding of industry‑standard frameworks. This work directly supports my ongoing preparation for several advanced certifications — CCSP, AIGP, CISSP, and AISM — as I continue developing deeper expertise in cloud security, governance, and information security management.
